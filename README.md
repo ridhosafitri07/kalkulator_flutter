@@ -37,11 +37,12 @@ flutter run
 
 ## Demo
 
-[![Lihat Video Demo](https://img.youtube.com/vi/RpQqyI3GmtM/0.jpg)](https://www.youtube.com/watch?v=RpQqyI3GmtM)
+https://github.com/user-attachments/assets/2c8210f9-db5d-43fb-ae3f-385a576f8a08
+
 
 ## Identitas 
 
-Nama : Hidayah Ridho Safitri
-Kelas : XI RPL 2
-Absen : 15
+Nama : Hidayah Ridho Safitri<br>
+Kelas : XI RPL 2<br>
+Absen : 15<br>
 Sekolah : SMKN 1 Bantul
