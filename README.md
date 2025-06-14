@@ -36,4 +36,5 @@ flutter run
 ---
 
 ## Demo
-<video src="https://github.com/ridhosafitri07/kalkulator_flutter/raw/main/demo.mp4" controls width="600"></video>
+
+[![Lihat Video Demo](https://img.youtube.com/vi/RpQqyI3GmtM/0.jpg)](https://www.youtube.com/watch?v=RpQqyI3GmtM)
